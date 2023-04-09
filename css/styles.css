@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@300;400&display=swap");
+
 * {
   margin: 0;
   padding: 0;
@@ -21,6 +22,7 @@ header {
   background-size: cover;
   background-repeat: no-repeat;
 }
+
 header nav ul {
   width: 85%;
   margin: 0 auto;
@@ -28,17 +30,21 @@ header nav ul {
   justify-content: space-between;
   align-items: center;
 }
+
 header nav ul li {
   margin-top: 1.5rem;
   list-style: none;
 }
+
 header nav ul li .img__logo {
   width: 8rem;
 }
+
 header nav ul li i {
   font-size: 1.7rem;
   color: #fff;
 }
+
 header nav ul .img__container {
   width: 2rem;
   height: 2rem;
@@ -46,39 +52,47 @@ header nav ul .img__container {
   background: #fff;
   overflow: hidden;
 }
+
 header nav ul .img__container--perfil {
   width: 100%;
   height: 100%;
   margin-top: 0.2rem;
 }
+
 header nav .container__warrior {
   display: flex;
   flex-direction: column;
 }
+
 header nav .container__warrior--img img {
   width: 12rem;
   height: 16rem;
 }
+
 header nav .container__warrior--features {
   margin-top: 0;
 }
+
 header nav .container__warrior--features .race {
   font-size: 1.2rem;
   color: #feb909;
   text-shadow: 0px 4px 20px #000;
 }
+
 header nav .container__warrior--features .warrior {
   margin-top: -0.8rem;
   font-size: 4rem;
   color: #fff;
   text-shadow: 0px 4px 20px #000;
 }
+
 header nav .container__warrior--features p {
   margin: -1rem 0 0 0.2rem;
   color: #fff;
   font-size: 0.85rem;
   font-weight: 300;
 }
+
 header nav .gradient {
   width: 100%;
   height: 20rem;
@@ -96,13 +110,15 @@ header nav .gradient {
   scroll-snap-type: x proximity;
   text-align: center;
 }
+
 .container__other__warriors .warriors {
-  width: 55rem;
+  width: 60rem;
   display: flex;
   justify-content: space-between;
   padding: 1.5rem;
   gap: 1rem;
 }
+
 .container__other__warriors .warriors .warrior__info {
   display: flex;
   flex-direction: column;
@@ -110,6 +126,7 @@ header nav .gradient {
   font-size: 1.2rem;
   color: #b2aaaa;
 }
+
 .container__other__warriors .warriors .warrior__info .warrior {
   margin-top: 1rem;
   width: 5rem;
@@ -121,6 +138,7 @@ header nav .gradient {
   justify-content: center;
   align-items: center;
 }
+
 .container__other__warriors .warriors .warrior__info .warrior img {
   margin-top: -1.8rem;
   width: 3.5rem;
@@ -129,4 +147,6 @@ header nav .gradient {
 
 .container__other__warriors::-webkit-scrollbar {
   width: 0;
-}/*# sourceMappingURL=styles.css.map */
+}
+
+/*# sourceMappingURL=styles.css.map */
