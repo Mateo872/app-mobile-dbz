@@ -1,0 +1,164 @@
+{
+    "characters": [
+      {
+        "id": "goku",
+        "name": "Goku",
+        "race": "Saiyajin",
+        "gender": "Male",
+        "bio": "El guerrero más poderoso del universo, con una fuerza inigualable y una capacidad de lucha sobrehumana.",
+        "img": "./img/goku.png"
+      },
+      {
+        "id": "vegeta",
+        "name": "Vegeta",
+        "race": "Saiyajin",
+        "gender": "Male",
+        "bio": "El príncipe Saiyajin de un planeta extinto, cuyo coraje y determinación lo han llevado a superar sus límites.",
+        "img": "./img/vegeta.png"
+      },
+      {
+        "id": "gohan",
+        "name": "Gohan",
+        "race": "Human/Saiyajin",
+        "gender": "Male",
+        "bio": "El hijo del legendario guerrero Goku, cuyo potencial es verdaderamente ilimitado y cuyo valor en el campo de batalla es incomparable.",
+        "img": "./img/gohan.png"
+      },
+      {
+        "id": "trunks",
+        "name": "Trunks",
+        "race": "Human/Saiyajin",
+        "gender": "Male",
+        "bio": "El guerrero del futuro, cuyo coraje y astucia lo convierten en un adversario formidable y un aliado invaluable en la lucha contra el mal.",
+        "img": "./img/trunks.png"
+      },
+      {
+        "id": "freezer",
+        "name": "Freezer",
+        "race": "Froze",
+        "gender": "Male",
+        "bio": "El emperador del universo, cuya crueldad y habilidad para destruir lo convierten en un enemigo temible.",
+        "img": "./img/frieza.png"
+      },
+      {
+        "id": "cell",
+        "name": "Cell",
+        "race": "Android",
+        "gender": "Male",
+        "bio": "Su fuerza, velocidad y habilidades de regeneración lo convierten en un rival insuperable.",
+        "img": "./img/cell.png"
+      },
+      {
+        "id": "majin buu",
+        "name": "Majin Buu",
+        "race": "Majin",
+        "gender": "Male",
+        "bio": "Una fuerza incontrolable de destrucción, cuyo poder es temido por los guerreros más fuertes del universo.",
+        "img": "./img/buu.png"
+      },
+      {
+        "id": "bills",
+        "name": "Bills",
+        "race": "God",
+        "gender": "Male",
+        "bio": "El Dios de la Destrucción, cuya ira y poder cósmico son capaces de hacer temblar el universo entero.",
+        "img": "./img/beerus.png"
+      },
+      {
+        "id": "picoro",
+        "name": "Picoro",
+        "race": "Namekian",
+        "gender": "Male",
+        "bio": "Sus habilidades mágicas y poderes psíquicos lo hacen un adversario formidable.",
+        "img": "./img/piccolo.png"
+      },
+      {
+        "id": "gotenks",
+        "name": "Gotenks",
+        "race": "Human/Saiyajin",
+        "gender": "Male",
+        "bio": "La fusión perfecta de Goten y Trunks, cuya fuerza y habilidades combinadas los convierten en un guerrero supremo.",
+        "img": "./img/gotenks.png"
+      },
+      {
+        "id": "hit",
+        "name": "Hit",
+        "race": "Unknown",
+        "gender": "Male",
+        "bio": "El asesino definitivo, cuya habilidad para controlar el tiempo lo convierte en un oponente imbatible.",
+        "img": "./img/hit.png"
+      },
+      {
+        "id": "krillin",
+        "name": "Krillin",
+        "race": "Human",
+        "gender": "Male",
+        "bio": "El guerrero humano más fuerte, cuya técnica y habilidad en artes marciales lo convierten en un adversario digno.",
+        "img": "./img/krillin.png"
+      },
+      {
+        "id": "jiren",
+        "name": "Jiren",
+        "race": "Unknown",
+        "gender": "Male",
+        "bio": "Su fuerza y habilidades sobrehumanas lo convierten en un oponente temible y un rival inigualable.",
+        "img": "./img/jiren.png"
+      },
+      {
+        "id": "tenshinhan",
+        "name": "Tenshinhan",
+        "race": "Human",
+        "gender": "Male",
+        "bio": "Su destreza en artes marciales y capacidad para controlar la energía lo convierten en un aliado valioso.",
+        "img": "./img/tien.png"
+      },
+      {
+        "id": "androide 17",
+        "name": "Androide 17",
+        "race": "Android",
+        "gender": "Male",
+        "bio": "El androide imparable, cuya habilidad para la lucha y la destrucción lo hacen un enemigo formidable.",
+        "img": "./img/android17.png"
+      },
+      {
+        "id": "androide 18",
+        "name": "Androide 18",
+        "race": "Android",
+        "gender": "Female",
+        "bio": "La androide más letal, cuya combinación de fuerza y agilidad lo convierte en una amenaza mortal.",
+        "img": "./img/android18.png"
+      },
+      {
+        "id": "broly",
+        "name": "Broly",
+        "race": "Saiyajin",
+        "gender": "Male",
+        "bio": "El guerrero Saiyajin legendario, cuya fuerza y poder son incomparables y lo convierten en un enemigo invencible.",
+        "img": "./img/broly.png"
+      },
+      {
+        "id": "vegito",
+        "name": "Vegito",
+        "race": "Saiyajin",
+        "gender": "Male",
+        "bio": "La fusión definitiva de Goku y Vegeta, cuyas habilidades combinadas los convierten en una amenaza imbatible.",
+        "img": "./img/vegito.png"
+      },
+      {
+        "id": "gogeta",
+        "name": "Gogeta",
+        "race": "Saiyajin",
+        "gender": "Male",
+        "bio": "La fusión potenciada de Goku y Vegeta, cuya fuerza cósmica lo convierten en un ser capaz de derrotar a cualquiera.",
+        "img": "./img/gogeta.png"
+      },
+      {
+        "id": "goku black",
+        "name": "Goku Black",
+        "race": "Saiyajin",
+        "gender": "Male",
+        "bio": "Con su capacidad para viajar a través del tiempo y el espacio, lo hacen un enemigo mortal.",
+        "img": "./img/gokublack.png"
+      }
+    ]
+  }
