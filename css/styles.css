@@ -68,7 +68,7 @@ header nav .container__warrior--features .race {
   text-shadow: 0px 4px 20px #000;
 }
 header nav .container__warrior--features .warrior {
-  margin-top: -1rem;
+  margin-top: -0.8rem;
   font-size: 4rem;
   color: #fff;
   text-shadow: 0px 4px 20px #000;
@@ -97,7 +97,7 @@ header nav .gradient {
   text-align: center;
 }
 .container__other__warriors .warriors {
-  width: 45rem;
+  width: 55rem;
   display: flex;
   justify-content: space-between;
   padding: 1.5rem;

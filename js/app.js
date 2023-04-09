@@ -10,8 +10,24 @@ async function warriorApi() {
 warriorApi();
 
 function init() {
-  const warrior = document.querySelectorAll(".warrior__info");
+  const warriorContainer = document.querySelector(".warriors");
 
+  data.map((warrior) => {
+    warriorContainer.innerHTML += `
+    <div class="warrior__info">
+      <div class="warrior">
+        <img src="${warrior.img}" alt="${warrior.name}" />
+      </div>
+      <h4>${warrior.name}</h4>
+    </div>
+    `;
+  });
+
+  warriorNew();
+}
+
+const warriorNew = () => {
+  const warrior = document.querySelectorAll(".warrior__info");
   let warriorImage = document
     .querySelector(".container__warrior--img")
     .querySelector("img");
@@ -38,4 +54,4 @@ function init() {
       warriorImage.src = newWarrior[0].img;
     })
   );
-}
+};
